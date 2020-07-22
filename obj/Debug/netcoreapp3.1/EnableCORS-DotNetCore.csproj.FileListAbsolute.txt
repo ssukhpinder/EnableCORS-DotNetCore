@@ -17,4 +17,3 @@ D:\Workspace_SukhpinderSingh\medium\EnableCORS-DotNetCore\EnableCORS-DotNetCore\
 D:\Workspace_SukhpinderSingh\medium\EnableCORS-DotNetCore\EnableCORS-DotNetCore\obj\Debug\netcoreapp3.1\EnableCORS-DotNetCore.dll
 D:\Workspace_SukhpinderSingh\medium\EnableCORS-DotNetCore\EnableCORS-DotNetCore\obj\Debug\netcoreapp3.1\EnableCORS-DotNetCore.pdb
 D:\Workspace_SukhpinderSingh\medium\EnableCORS-DotNetCore\EnableCORS-DotNetCore\obj\Debug\netcoreapp3.1\EnableCORS-DotNetCore.genruntimeconfig.cache
-D:\Workspace_SukhpinderSingh\medium\EnableCORS-DotNetCore\EnableCORS-DotNetCore\obj\Debug\netcoreapp3.1\EnableCORS-DotNetCore.csprojAssemblyReference.cache
